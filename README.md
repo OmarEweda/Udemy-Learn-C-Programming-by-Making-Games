@@ -5,7 +5,7 @@
 
 ## Structure
 
-- **Chapter_X**
-  - **Exercise_Y**
+- **Lecture_X**
+  - **Problem_Y**
     - `solution.cpp`
     - `README.md` (if necessary)
